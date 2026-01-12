@@ -1,0 +1,16 @@
+---
+title: "wk1"
+format: html
+---
+
+
+
+
+
+## Data Source:
+
+
+1. Dublin Admin Areas DCC:
+https://data.gov.ie/dataset/administrative-areas-dcc
+
+2. 
